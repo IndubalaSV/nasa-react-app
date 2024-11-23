@@ -39,7 +39,8 @@ function App() {
     handleInfoClick: handleInfoClick,
     url: data?.url,
     title: data?.title,
-    description: data?.explanation
+    description: data?.explanation,
+    date: data?.date,
   }
   return (
     <div>

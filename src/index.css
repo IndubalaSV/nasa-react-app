@@ -151,6 +151,12 @@ footer button:hover {
 
 .dateTag {
     margin: 10px 0;
+    color: white;
+}
+.apod_link{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 200;
 }
 
 /* Media Queries */
